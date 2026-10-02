@@ -2,6 +2,12 @@
 
 EduGenie is a FastAPI study companion that uses Google Gemini to answer questions, explain topics, summarize notes, generate quizzes, and suggest learning paths. A single-page UI lets students pick a task, submit text, and read the result.
 
+## Live Demo
+
+🔗 **Live App:** [https://edugenie-x2r7.onrender.com](https://edugenie-x2r7.onrender.com)
+
+> **Note:** The free tier instance may take up to a minute to wake up on the first request.
+
 ## Features
 
 - Q&A for student questions
